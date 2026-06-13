@@ -1,6 +1,6 @@
 const navGreeting = document.getElementById("nav-greeting");
 const input = document.getElementById("name");
-const greetButton = document.getElementById("greet-btn")
+const greetButton = document.getElementById("greet")
 const cards = document.querySelectorAll(".card");
 const red = document.getElementById("red");
 const blue = document.getElementById("blue");
